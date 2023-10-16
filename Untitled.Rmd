@@ -1,0 +1,18 @@
+---
+title: "this is a test"
+author: "Laila Rothe 12384905"
+date: "2023-10-16"
+output: pdf_document
+---
+5+6
+```{r}
+5+6
+
+```
+
+```{r}
+hi <- c(1,2,3)
+bye <- c(3,2,1)
+hi + bye
+```
+
